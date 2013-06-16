@@ -4,6 +4,14 @@ A Clojure library designed to perform (not only) database migrations.
 Each migration is regular Clojure function so you are not limited to
 SQL as with other migration libraries.
 
+## Installation
+
+To include fun_migrations into your project add the following to your :dependencies:
+
+```
+[fun_migrations "0.1.0"]
+```
+
 ## Usage
 
 ```
