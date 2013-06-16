@@ -1,4 +1,4 @@
-(defproject fun_migrations "0.1.0-SNAPSHOT"
+(defproject fun_migrations "0.1.0"
   :description "Database migrations"
   :url "https://github.com/maio/fun_migrations"
   :license {:name "Eclipse Public License"
